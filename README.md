@@ -1,2 +1,2 @@
 # Sorted
-Interface for maintaining soreted data in java
+Abstract class for maintaining soreted data in java.
